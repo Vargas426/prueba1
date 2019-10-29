@@ -9,7 +9,8 @@ body{
 }
 
 p{
-    color: #524c56;
+    /*color: #524c56;*/
+    color:blue;
     font-size: 160%;
     line-height: 155%;
     padding: 3%;
@@ -218,7 +219,7 @@ footer {
     line-height: 155%;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1090px) {
     p{
         font-size: 130%;        
     }
